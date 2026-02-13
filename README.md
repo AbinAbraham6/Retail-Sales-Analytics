@@ -112,7 +112,7 @@ retail-sales-analytics/
 
 1. Clone the repository:
 
-   git clone https://github.com/naeeef/retail-sales-analytics.git
+   git clone https://github.com/AbinAbraham6/Retail-Sales-Analytics
 
 2. Navigate to project folder:
 
